@@ -6,6 +6,7 @@
     "author": "Gabe Macri",
     "action":{
         "default_popup": "index.html",
-        "default_title": "extention"
-    }
+        "default_title": "extention",
+        "default_icon": "#"
+    } 
 }
