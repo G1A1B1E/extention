@@ -1,0 +1,11 @@
+{
+    "name": "extention",
+    "version": "1.0.0",
+    "description": "nothing",
+    "manifest_version": 3,
+    "author": "Gabe Macri",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "extention"
+    }
+}
